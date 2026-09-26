@@ -1,5 +1,8 @@
 
-# Good God, do not install this until we clean it up! I am restoring from backup.
+# Do not install.
+
+
+
 
 # uConsole Hyprland Dotfiles
 
