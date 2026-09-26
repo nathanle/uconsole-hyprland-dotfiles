@@ -1,3 +1,6 @@
+
+#Good God, do not install this until we clean it up! I am restoring from backup.
+
 # uConsole Hyprland Dotfiles
 
 Portable Debian 13 / Raspberry Pi CM5 Hyprland setup for the ClockworkPi uConsole.
