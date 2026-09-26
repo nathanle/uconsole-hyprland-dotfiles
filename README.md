@@ -1,5 +1,5 @@
 
-#Good God, do not install this until we clean it up! I am restoring from backup.
+# Good God, do not install this until we clean it up! I am restoring from backup.
 
 # uConsole Hyprland Dotfiles
 
